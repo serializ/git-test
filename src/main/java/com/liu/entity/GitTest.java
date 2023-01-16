@@ -1,4 +1,4 @@
-package com.liu;
+package com.liu.entity;
 
 public class GitTest {
     public static void main(String[] args) {
